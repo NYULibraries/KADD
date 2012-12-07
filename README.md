@@ -1,4 +1,2 @@
 KADD
 ====
-
-See [[wiki]]
